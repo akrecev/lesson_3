@@ -1,0 +1,66 @@
+#ded {
+	color: red;
+}
+#babka {
+	color: orange;
+}
+#vnuchka {
+	color: yellow;
+}
+#zhuchka {
+	color: green;
+}
+#koshka {
+	color: rgb(0, 247, 255);
+}
+#mishka {
+	color: blue;
+}
+.header {
+	color: darkorange;
+}
+.yo {
+	color: purple;
+}
+.big {
+	color: rgb(203, 206, 35);
+}
+.intro {
+	color: blue;
+}
+.action1 {
+	color: red;
+}
+.action2 {
+	color: orange;
+}
+.action3 {
+	color: yellow;
+}
+.action4 {
+	color: green;
+}
+.action5 {
+	color: rgb(0, 247, 255);
+}
+.can-not {
+	color: red;
+}
+.action1 .can-not {
+	color: blue;
+}
+.action5 > p {
+	color: red;
+}
+.test-nesting ~ p {
+	color: green;
+}
+.test-nesting2 + p {
+	color: red;
+}
+.final {
+	color: aqua;
+}
+.final.yo {
+	color: red;
+}
